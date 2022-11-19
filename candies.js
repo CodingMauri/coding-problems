@@ -11,3 +11,5 @@ var distributeCandies = function(candies, num_people) {
     return people;
  
 };
+
+console.log(distributeCandies)
